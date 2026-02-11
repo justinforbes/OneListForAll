@@ -1572,6 +1572,7 @@ bin.js
 login.log
 libs/cq/core/content/login.json
 asp2php
+heapdump%23
 sldstart/secure
 simpleLogin/
 _profiler/empty/search/results?limit=10
@@ -1901,6 +1902,7 @@ BETA
 cgi-perl/ezshopper/search.cgi
 lincoln
 scammer.php
+actuator/heapdump%23
 oci/index
 authtoken
 tasks.db
